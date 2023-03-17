@@ -7,3 +7,5 @@ Uploaded Assignments ->
 
 - ML WEEK 2,
 
+- ML WEEK 3,
+
