@@ -9,6 +9,10 @@ Uploaded Assignments ->
 
 - ML WEEK 3,
 
+- WEEK 4 (No assignment)
+
 - ML WEEK 5,
 
 - ML WEEK 6,
+
+- ML WEEK 8,
